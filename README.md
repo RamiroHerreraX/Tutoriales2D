@@ -74,7 +74,7 @@ TUTORIALES2D/
 │
 └── 📁 .github/ # Configuración GitHub
 └── 📁 workflows/ # Automatizaciones (opcional)
-```plaintext
+```
 
 ## 🎯 Cómo Ejecutar los Proyectos
 
