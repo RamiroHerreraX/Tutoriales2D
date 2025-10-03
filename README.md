@@ -38,7 +38,7 @@
 
 ## 📁 Estructura del Repositorio
 
-
+```plaintext
 TUTORIALES2D/
 │
 ├── 📄 README.md # Este archivo - Portada principal
@@ -74,6 +74,7 @@ TUTORIALES2D/
 │
 └── 📁 .github/ # Configuración GitHub
 └── 📁 workflows/ # Automatizaciones (opcional)
+```plaintext
 
 ## 🎯 Cómo Ejecutar los Proyectos
 
