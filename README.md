@@ -12,14 +12,14 @@
 ## 📚 Tutoriales Completados
 
 | # | Tutorial | Estado | Fecha Completado | Evidencias |
-|---|----------|---------|------------------|------------|
-| 1 | **Player Animations 2D - Tutorial 01** | ✅ Completado | 03-Oct | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-01/Tutorial01-evidencias.docx) |
-| 2 | **Player Animations 2D - Tutorial 02** | ✅ Completado | 10-Oct | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-02/Tutorial02-evidencias.docx) |
-| 3 | **Player Animations 2D - Tutorial 03** | ✅ Completado | 17-Oct | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-03/Tutorial03-evidencias.docx) |
-| 4 | **Player Animations 2D - Tutorial 04** | ✅ Completado | 24-Oct | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-04/Tutorial04-evidencias.docx) |
-| 5 | **Player Animations 2D - Tutorial 05** | ✅ Completado | 31-Oct | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-05/Tutorial05-evidencias.docx) |
-| 6 | **Player Animations 2D - Tutorial 06** | ✅ Completado | 07-Nov | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-06/Tutorial06-evidencias.docx) |
-| 7 | **Player Animations 2D - Tutorial 07** | ✅ Completado | 14-Nov | [📄 Ver Evidencias](Documentation/Evidencias-Visuales/Tutorial-07/Tutorial07-evidencias.docx) |
+|---|----------|--------|------------------|------------|
+| 1 | **Player Animations 2D - Tutorial 01** | ✅ Completado | 03-Oct | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial01-evidencias.pdf) |
+| 2 | **Player Animations 2D - Tutorial 02** | ✅ Completado | 10-Oct | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial02-evidencias.pdf) |
+| 3 | **Player Animations 2D - Tutorial 03** | ✅ Completado | 17-Oct | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial03-evidencias.pdf) |
+| 4 | **Player Animations 2D - Tutorial 04** | ✅ Completado | 24-Oct | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial04-evidencias.pdf) |
+| 5 | **Player Animations 2D - Tutorial 05** | ✅ Completado | 31-Oct | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial05-evidencias.pdf) |
+| 6 | **Player Animations 2D - Tutorial 06** | ✅ Completado | 07-Nov | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial06-evidencias.pdf) |
+| 7 | **Player Animations 2D - Tutorial 07** | ✅ Completado | 14-Nov | [📄 Ver Evidencias](https://github.com/RamiroHerreraX/Tutoriales2D/blob/main/Documentation/Evidencias-Visuales/Tutorial07-evidencias.pdf) |
 
 ---
 
